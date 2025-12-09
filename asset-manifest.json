@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-cultural-map/static/css/main.2fdb0fc6.css",
+    "main.js": "/my-cultural-map/static/js/main.3a0ed0b0.js",
+    "index.html": "/my-cultural-map/index.html",
+    "main.2fdb0fc6.css.map": "/my-cultural-map/static/css/main.2fdb0fc6.css.map",
+    "main.3a0ed0b0.js.map": "/my-cultural-map/static/js/main.3a0ed0b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdb0fc6.css",
+    "static/js/main.3a0ed0b0.js"
+  ]
+}
