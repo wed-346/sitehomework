@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://YOUR_USERNAME.github.io/my-cultural-map",
+  "homepage": "https://wed-346.github.io/my-cultural-map",
   "eslintConfig": {
     "extends": [
       "react-app",
